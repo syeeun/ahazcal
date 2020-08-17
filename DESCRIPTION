@@ -1,8 +1,8 @@
 Package: ahazcal
-Title: What the Package Does (one line, title case)
-Version: 0.0.0.9000
-Authors@R: person("First", "Last", email = "first.last@example.com", role = c("aut", "cre"))
-Description: What the package does (one paragraph).
+Title: Weight Calibration to Estimate Pure Risks from Additive Hazards Model with Nested Case-control Designs
+Version: 1.1.0
+Authors@R: person("Yei Eun", "Shin", email = "syeeun@gmail.com", role = c("aut"))
+Description: We propose to use weight calibration to improve efficiency for estimating pure risks from additive hazards model with nested case-control design. 
 Depends: R (>= 3.5.1)
 License: What license is it under?
 Encoding: UTF-8
